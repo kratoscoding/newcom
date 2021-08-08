@@ -1,3 +1,8 @@
 # newcom
 pat is coolest
 ขอให้ทุกท่านมีความสุข
+Hello world
+ 
+ git add
+ git commit -m ""
+ git push
